@@ -1,6 +1,7 @@
 # Hootsuite Logo
 [Hootsuite Logo](https://joy8zhang.github.io/hootsuite-logo)
 is an animated Hootsuite owl logo using HTML and CSS
+<br>
 NOTE: Chrome browsers only
 
 ## How to Use
